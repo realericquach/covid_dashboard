@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/%7Bcovid_dashboard%7D/static/css/main.dd7f4e9c.chunk.css",
+    "main.js": "/%7Bcovid_dashboard%7D/static/js/main.9ae843b6.chunk.js",
+    "main.js.map": "/%7Bcovid_dashboard%7D/static/js/main.9ae843b6.chunk.js.map",
+    "runtime-main.js": "/%7Bcovid_dashboard%7D/static/js/runtime-main.57d54075.js",
+    "runtime-main.js.map": "/%7Bcovid_dashboard%7D/static/js/runtime-main.57d54075.js.map",
+    "static/js/2.192771b4.chunk.js": "/%7Bcovid_dashboard%7D/static/js/2.192771b4.chunk.js",
+    "static/js/2.192771b4.chunk.js.map": "/%7Bcovid_dashboard%7D/static/js/2.192771b4.chunk.js.map",
+    "static/js/3.b6cdbe33.chunk.js": "/%7Bcovid_dashboard%7D/static/js/3.b6cdbe33.chunk.js",
+    "static/js/3.b6cdbe33.chunk.js.map": "/%7Bcovid_dashboard%7D/static/js/3.b6cdbe33.chunk.js.map",
+    "static/js/4.b5365dd4.chunk.js": "/%7Bcovid_dashboard%7D/static/js/4.b5365dd4.chunk.js",
+    "static/js/4.b5365dd4.chunk.js.map": "/%7Bcovid_dashboard%7D/static/js/4.b5365dd4.chunk.js.map",
+    "static/js/5.f2b84a23.chunk.js": "/%7Bcovid_dashboard%7D/static/js/5.f2b84a23.chunk.js",
+    "static/js/5.f2b84a23.chunk.js.map": "/%7Bcovid_dashboard%7D/static/js/5.f2b84a23.chunk.js.map",
+    "index.html": "/%7Bcovid_dashboard%7D/index.html",
+    "static/css/main.dd7f4e9c.chunk.css.map": "/%7Bcovid_dashboard%7D/static/css/main.dd7f4e9c.chunk.css.map",
+    "static/js/2.192771b4.chunk.js.LICENSE.txt": "/%7Bcovid_dashboard%7D/static/js/2.192771b4.chunk.js.LICENSE.txt",
+    "static/js/3.b6cdbe33.chunk.js.LICENSE.txt": "/%7Bcovid_dashboard%7D/static/js/3.b6cdbe33.chunk.js.LICENSE.txt",
+    "static/js/4.b5365dd4.chunk.js.LICENSE.txt": "/%7Bcovid_dashboard%7D/static/js/4.b5365dd4.chunk.js.LICENSE.txt",
+    "static/js/5.f2b84a23.chunk.js.LICENSE.txt": "/%7Bcovid_dashboard%7D/static/js/5.f2b84a23.chunk.js.LICENSE.txt",
+    "static/media/alvin.1e092b5a.png": "/%7Bcovid_dashboard%7D/static/media/alvin.1e092b5a.png",
+    "static/media/eric.c59ec984.jpg": "/%7Bcovid_dashboard%7D/static/media/eric.c59ec984.jpg",
+    "static/media/ferry.3b68f9ad.jpg": "/%7Bcovid_dashboard%7D/static/media/ferry.3b68f9ad.jpg",
+    "static/media/goldwasser.ed0e74c6.jpeg": "/%7Bcovid_dashboard%7D/static/media/goldwasser.ed0e74c6.jpeg",
+    "static/media/metta.b9af0cdc.jpg": "/%7Bcovid_dashboard%7D/static/media/metta.b9af0cdc.jpg",
+    "static/media/prener.ce115f51.png": "/%7Bcovid_dashboard%7D/static/media/prener.ce115f51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d54075.js",
+    "static/js/2.192771b4.chunk.js",
+    "static/css/main.dd7f4e9c.chunk.css",
+    "static/js/main.9ae843b6.chunk.js"
+  ]
+}
